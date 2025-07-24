@@ -1,4 +1,1 @@
-colorama
-emailprotectionslib>=0.8.2
-dnslib
-tldextract
+dnspython==2.7.0
